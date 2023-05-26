@@ -5,4 +5,6 @@
 # netflix_deshbord
 ![Capture2](https://github.com/Tamalbha/netflix_deshbord/assets/133376660/7aeaae6e-4299-4325-894d-5754cdaa28db)
 ![3](https://github.com/Tamalbha/netflix_deshbord/assets/133376660/cce51543-ca83-4efc-89ed-0a3a0bdad0d6)
+# Technology
+Knime
 
