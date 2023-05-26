@@ -3,4 +3,5 @@
 # netflix_deshbord_workflow
 ![Capture1](https://github.com/Tamalbha/netflix_deshbord/assets/133376660/9d3ffdfd-4963-4747-b12c-6721585f3248)
 # netflix_deshbord
+![Capture2](https://github.com/Tamalbha/netflix_deshbord/assets/133376660/7aeaae6e-4299-4325-894d-5754cdaa28db)
 
